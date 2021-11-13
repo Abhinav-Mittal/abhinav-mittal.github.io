@@ -7,17 +7,17 @@ layout: resume
 
 ## Currently
 
-Current Position Description
+PhD candidate, Dept. Biophysics and Biochemistry, University of Rochester
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2015 - 2016`
+__International Institute of Information technology, Hyderabad, India__
+MS by Research in Computational Natural Sciences (Advisor: Prof. Abhijit Mitra)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2011 - 2015`
+__International Institute of Information technology, Hyderabad, India__
+Bachelor of Technology (Hons.) in Computer Science 
 
 ## Awards
 
@@ -54,7 +54,7 @@ Presentation Title, Conference
 ## Employment History
 
 `Current`
-__Current Job Title__, Current Employer 
+__Graduate Research Assistant__, University of Rochester
 
 - Task
 - Task
